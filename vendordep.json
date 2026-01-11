@@ -8,7 +8,7 @@
   ],
   "fileName": "badger-log.json",
   "frcYear": "2025",
-  "jsonUrl": "https://raw.githubusercontent.com/team1306/badger-log/master/vendordep.json",
+  "jsonUrl": "https://raw.githubusercontent.com/ethsanders/badger-log/2025/vendordep.json",
   "name": "BadgerLog",
   "jniDependencies": [],
   "mavenUrls": [
